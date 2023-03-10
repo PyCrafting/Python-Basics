@@ -5,6 +5,8 @@ Thank you for visiting this GitHub repository. This project is dedicated to help
 We appreciate your interest in our project and hope that you enjoy using it. Thank you for your support!
 
 ## Basic Python Data Types:
-[a relative link](Basic_Data_Types)
+Please refer below for the chronological order to learning Python from this repository. 
+
+[1. Basic Python Data Types](Basic_Data_Types)
 
 https://github.com/Pycrafting/Python-Basics/tree/main/Basic_Data_Types
