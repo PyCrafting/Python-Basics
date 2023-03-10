@@ -7,6 +7,7 @@ We appreciate your interest in our project and hope that you enjoy using it. Tha
 ## Learning Material:
 Please refer below for the chronological order to learning Python from this repository. 
 
-[1. Basic Data Types](Basic_Data_Types)\n
+[1. Basic Data Types](Basic_Data_Types)
+
 [2. Using Basic Data Types](Using_Basic_Data_Types)
 
