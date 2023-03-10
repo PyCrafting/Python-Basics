@@ -11,3 +11,4 @@ Please refer below for the chronological order to learning Python from this repo
 
 [2. Using Basic Data Types](Using_Basic_Data_Types)
 
+[3. Learning Integers](Learning_Integers)
