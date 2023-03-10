@@ -4,4 +4,5 @@ Thank you for visiting this GitHub repository. This project is dedicated to help
 
 We appreciate your interest in our project and hope that you enjoy using it. Thank you for your support!
 
-## Basic Python Data Types
+## Basic Python Data Types:
+
